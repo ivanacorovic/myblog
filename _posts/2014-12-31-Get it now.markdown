@@ -1,0 +1,5 @@
+
+![My helpful screenshot]({{ site.url }}/assets/world.jpg)
+
+… you can [get the PDF]({{ site.url }}/assets/dm 2014 domaci3.pdf) directly.
+
